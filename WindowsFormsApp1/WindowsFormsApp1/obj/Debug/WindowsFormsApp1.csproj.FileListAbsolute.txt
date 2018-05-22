@@ -1,0 +1,16 @@
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Mono.Security.dll
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UnitM.resources
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\19\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
